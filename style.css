@@ -1,4 +1,4 @@
-html {
+body {
     background-color: black;
     color: rgba(255, 255, 255, 0.87);
 }
@@ -15,7 +15,7 @@ main {
 }
 
 main img {
-    width: auto;
+    width: 100%;
     height: auto;
 }
 
