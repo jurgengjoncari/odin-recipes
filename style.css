@@ -1,0 +1,31 @@
+html {
+    background-color: black;
+    color: rgba(255, 255, 255, 0.87);
+}
+
+header {
+    text-align: center;
+}
+
+main {
+    margin: auto;
+    width: 85ch;
+    background-color: rgba(255, 255, 255, 0.05);
+    padding: 24px;
+}
+
+main img {
+    max-width: 100%;
+    min-width: 85ch;
+    max-height: 100%;
+    height: auto;
+}
+
+a {
+    color: #e1ad01;
+}
+
+#recipes li {
+    padding: 2px;
+    margin: 2px;
+}
