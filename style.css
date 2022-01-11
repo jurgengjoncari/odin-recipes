@@ -15,9 +15,7 @@ main {
 }
 
 main img {
-    max-width: 100%;
-    min-width: 85ch;
-    max-height: 100%;
+    width: auto;
     height: auto;
 }
 
